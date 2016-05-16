@@ -1,5 +1,7 @@
 # arch-linux-anywhere
 
+[![Join the chat at https://gitter.im/neynefes/arch-linux-anywhere](https://badges.gitter.im/neynefes/arch-linux-anywhere.svg)](https://gitter.im/neynefes/arch-linux-anywhere?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Arch Anywhere ISO is a modifyed version of the official archiso containing some added features and enhancements, as well as a whiptail automated install script. Simply write the the ISO to a CD or USB, boot it up, and type 'arch-anywhere' to begin the install process. This will allow you to install a fully custom Arch Linux system in minutes with a simple menu system. The installer script makes Arch simple for Linux beginners, while offering many options to allow advanced users to install Arch just how they like it. The installer also has support for multiple languages, every asbect of the install from partitioning the drive, to installing a desktop is taken into consideration, leaving you with a fully bootable Arch Linux system, fully configured with your favorite desktop in minutes. Install Arch Linux Anywhere, anytime, with the system configured just for you.. 
 
 ### Official Arch Linux Anywhere ISO:
